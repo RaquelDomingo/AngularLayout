@@ -1,0 +1,21 @@
+.nav {
+    background-color: #A5C5F3;
+    width: 210px;
+    height: 500px;
+    margin-top: 30px;
+    padding: 5px 5px 5px 12px;
+    font-family: ABeeZee;
+    display: inline-block;
+    vertical-align: top;
+    border: 3px solid #000;
+}
+
+button {
+    width: 175px;
+    padding: 10px 50px 10px 50px;
+    margin: 10px 10px 10px 10px;
+    box-shadow: 5px 5px 5px black;
+    border-color: black;
+    background: white;
+}
+
