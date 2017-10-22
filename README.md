@@ -1,3 +1,6 @@
+<img width="867" alt="layout" src="https://user-images.githubusercontent.com/29441324/31867788-cc03177a-b749-11e7-8d58-50c1eb73ea08.png">
+
+
 # Layout
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.0.
